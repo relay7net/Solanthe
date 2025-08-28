@@ -5,9 +5,11 @@
   "description": "Solanthe - Solar-Powered Efficiency\nSolanthe channels the sun’s energy to deliver sustainable, high-efficiency growth on the Solana blockchain. Bright, powerful, and energy-conscious.",
   "image": "https://raw.githubusercontent.com/relay7net/Solanthe/main/SOLANTHE.png",
   "external_url": "https://solanthe.com",
+  "seller_fee_basis_points": 0,
   "extensions": {
     "website": "https://solanthe.com",
-    "telegram": "https://t.me/solanthe_sol"
+    "telegram": "https://t.me/solanthe_sol",
+    "coingeckoId": "solanthe"
   },
   "properties": {
     "category": "token",
