@@ -2,24 +2,17 @@
   "name": "Solanthe",
   "symbol": "SLT",
   "decimals": 6,
-  "description": "Solanthe - Solar-Powered Efficiency\nSolanthe channels the sun’s energy to deliver sustainable, high-efficiency growth on the Solana blockchain. Bright, powerful, and energy-conscious.",
+  "description": "Solanthe - Solar-Powered Efficiency. Solanthe channels the sun’s energy to deliver sustainable, high-efficiency growth on the Solana blockchain.",
   "image": "https://raw.githubusercontent.com/relay7net/Solanthe/main/SOLANTHE.png",
+  "logoURI": "https://raw.githubusercontent.com/relay7net/Solanthe/main/SOLANTHE.png",
   "external_url": "https://solanthe.com",
   "seller_fee_basis_points": 0,
+  "tags": ["utility-token", "solana", "sustainability"],
   "extensions": {
     "website": "https://solanthe.com",
-    "telegram": "https://t.me/solanthe_sol",
-    "coingeckoId": "solanthe"
+    "telegram": "https://t.me/solanthe_sol"
   },
   "properties": {
-    "category": "token",
-    "creators": [
-      {
-        "address": "SLT1nqzAD88UgQ2jzJT5KfAMnydiBam3QoVd93oVaPw",
-        "share": 100,
-        "verified": true
-      }
-    ],
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/relay7net/Solanthe/main/SOLANTHE.png",
